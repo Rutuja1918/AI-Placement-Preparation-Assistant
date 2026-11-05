@@ -1,0 +1,22 @@
+
+# LangChain
+langchain==1.0.5
+
+# OpenRouter integration
+langchain-openrouter==0.2.8
+
+# Structured output and validation
+pydantic==2.12.3
+
+# Frontend
+streamlit==1.50.0
+
+# Environment variables
+python-dotenv==1.1.1
+
+# langsmith
+langsmith
+
+langchain-google-genai
+
+langchain-groq
