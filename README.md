@@ -126,3 +126,10 @@ The model generates structured technical interview preparation content based on 
 The objective of this project is to make technical interview preparation more accessible and structured by providing personalized, AI-generated interview practice for candidates.
 
 ## 👩‍💻 Author
+Rutuja
+
+BE Information Technology Student
+
+GitHub Profile
+
+⭐ If you find this project useful, consider giving it a star!
